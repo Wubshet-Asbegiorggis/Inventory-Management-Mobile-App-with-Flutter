@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "82436170302",
+    "project_id": "dan-energy-inventory-app",
+    "storage_bucket": "dan-energy-inventory-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82436170302:android:baccf298b0d2017761676f",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82436170302-fr8tvva2450qnkemndms8s0khhhevuti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nFpbqJrndvsUPoEJ_Zzp4qKQT9xSV1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82436170302-fr8tvva2450qnkemndms8s0khhhevuti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82436170302-1crc3gj0houttq9jfcumpqorm4fal6i1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inventoryApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82436170302:android:aa701edc4a7770d861676f",
+        "android_client_info": {
+          "package_name": "com.example.inventory_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82436170302-fr8tvva2450qnkemndms8s0khhhevuti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nFpbqJrndvsUPoEJ_Zzp4qKQT9xSV1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82436170302-fr8tvva2450qnkemndms8s0khhhevuti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82436170302-1crc3gj0houttq9jfcumpqorm4fal6i1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.inventoryApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
